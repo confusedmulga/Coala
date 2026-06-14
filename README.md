@@ -2,7 +2,7 @@
 
 **Coala** is a premium, modern notes and task management application built with Flutter. Inspired by Apple's "Liquid Glass" design language, it offers a stunning, translucent, and highly responsive user interface that makes taking notes a joy.
 
-## ✨ Key Features
+## Key Features
 
 *   **Inline Block Editor:** A powerful rich-text editor that lets you seamlessly interleave images and text. Images drop right where your cursor is, splitting text naturally.
 *   **Liquid Glass UI:** Beautiful frosted glass effects, translucent navigation drawers, and specular highlights that adapt to system dark mode.
@@ -12,7 +12,7 @@
 *   **Reminders:** Set local push notifications for time-sensitive notes so you never miss a beat.
 *   **Full Lifecycle Management:** Archive completed tasks or send them to the Trash (auto-deletes after 7 days).
 
-## 🚀 Getting Started
+## Getting Started
 
 This project is built using Flutter. To run it locally:
 
